@@ -1,6 +1,6 @@
 # BlackOut
 
-## ⚡Bem-vindo à Wiki do BlackOut!
+## ⚡Bem-vindo à Wiki do BlackOut!a
 
 Este é o melhor servidor, que tu vais encontrar até hoje! Leia a wiki e fique a saber da historia! Este servidor contém, raças, torneios, clans, e um survival épico com itens customizados!
 
