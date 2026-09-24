@@ -1,3 +1,3 @@
 # Table of contents
 
-* [BlackOut](README.md)
+* [⚡ BlackOut](README.md)

@@ -1,4 +1,10 @@
-# BlackOut
+---
+description: >-
+  A Única Wiki que vais presisar de ver! Aqui tens, Plugins, Jogadores, Regras e
+  a Historia toda!
+---
+
+# ⚡ BlackOut
 
 ## ⚡Bem-vindo à Wiki do BlackOut!a
 
