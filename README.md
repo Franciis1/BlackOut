@@ -1,12 +1,37 @@
 ---
 description: >-
-  A Única Wiki que vais presisar de ver! Aqui tens, Plugins, Jogadores, Regras e
+  A Única Wiki que vais precisar de ver! Aqui tens, Plugins, Jogadores, Regras e
   a Historia toda!
 ---
 
 # ⚡ BlackOut
 
-## ⚡Bem-vindo à Wiki do BlackOut!a
+<details>
+
+<summary><mark style="color:$danger;">⚡ LITTLEFIRE  •  ALPHA</mark>       •  # A IDEIA ONDE COMEÇOU!</summary>
+
+Então, tudo começou em 2024 quando, pensei em fazer um servidor de minecraft! E sim, Consegui! Embora, seja extremamente dificil, nunca parei!\
+LittleFire, foi o primeiro nome, que foi usado, para representar! E este era o discord!
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>LOGO OFICIAL DO LITTLEFIRE!</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>ISTO CLARO, EM 20/1/2024</p></figcaption></figure>
+
+Era para ser um servidor de slimefun, com todos os add-ons! mas logo logo\
+reparei, que ficava extremamente pesado, e mesmo assim, continuei!\
+&#x20;                               <br>
+
+</details>
+
+<details>
+
+<summary><mark style="color:$danger;">⚡</mark> <mark style="color:$tint;">BLACKOUT  •  ALPHA</mark> <mark style="color:$danger;">⚡</mark> •  # O COMEÇO!</summary>
+
+
+
+</details>
+
+## ⚡Bem-vindo à Wiki do BlackOut!
 
 Este é o melhor servidor, que tu vais encontrar até hoje! Leia a wiki e fique a saber da historia! Este servidor contém, raças, torneios, clans, e um survival épico com itens customizados!
 
